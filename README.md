@@ -1,4 +1,4 @@
-#### gitflow introduction
+#### gitflow introduction V1.0.0
 
 -  [A successful Git branching model](http://nvie.com/posts/a-successful-git-branching-model/)
 
